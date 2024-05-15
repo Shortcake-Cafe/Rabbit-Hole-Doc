@@ -75,4 +75,42 @@ export default {
       ]
     },
   ],
+  extSidebar: [
+    {
+      type: 'doc',
+      id: 'ext/introduction',
+      label: 'Introduction',
+    },
+    {
+      type: 'doc',
+      id: 'ext/usage',
+      label: 'Usage',
+    },
+    {
+      type: 'category',
+      label: 'Getting Started',
+      items: [
+        {
+          type: 'doc',
+          id: 'ext/getting-started/core-concepts',
+          label: 'Core Concepts',
+        },
+        {
+          type: 'doc',
+          id: "ext/getting-started/environment",
+          label: 'Dev Environment',
+        },
+        {
+          type: 'doc',
+          id: 'ext/getting-started/first-extension',
+          label: 'First Extension',
+        }
+      ],
+    },
+    {
+      type: 'doc',
+      id: 'ext/skinning',
+      label: 'Skinning',
+    }
+  ],
 };

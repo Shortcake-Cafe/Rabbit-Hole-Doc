@@ -70,7 +70,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'docSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Scratch Docs',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'extSidebar',
+            position: 'left',
+            label: 'Extension Docs'
           },
         ],
       },

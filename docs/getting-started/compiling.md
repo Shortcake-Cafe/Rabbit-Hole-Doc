@@ -4,21 +4,22 @@
 
 # Compiling the game
 
-1. Go to [the turbowarp packager](https://packager.turbowarp.org/).
+1. Go to the [TurboWarp Packager](https://packager.turbowarp.org/).
 
-2. **Select File** and **load Rabbit Hole.sb3**
+2. Select **File** and choose **Rabbit Hole.sb3**.
+
+3. Wait for the file to be compressed.
 
 :::note
 
     To save time, I recommend you use the settings already provided in your download.
-    Scroll down, press **Import Settings** and upload **turbowarp-packager-settings.json**
+    Scroll down to the very bottom, press **Import Settings** and upload `turbowarp-packager-settings.json`.
 
 :::
 
-3. Pick your **environment** and press **package**!
+4. Pick your environment and press **Package**!
 
    - The browser version of Rabbit Hole just uses **Plain HTML**
-
    - The steam version uses **Electron Windows application (64-bit only)**
 
 :::warning
