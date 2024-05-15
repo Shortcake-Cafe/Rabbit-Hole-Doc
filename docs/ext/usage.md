@@ -16,6 +16,12 @@ Before you can do any modding, or if you're just here to install extensions, you
 5. Use the injector to load the extensions into Rabbit Hole.
 6. Launch the game through Steam like normal!
 
+:::note
+
+If the injector is not starting properly or you are having issues, try replacing your `injector.exe` with the <a href="../injector-compatibility.exe" download="injector.exe">compatibility version</a>.
+
+:::
+
 ## Extensions
 
 Here's a comprehensive list of available extensions:
