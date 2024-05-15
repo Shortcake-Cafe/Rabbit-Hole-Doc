@@ -2,7 +2,8 @@
 
 This section of the documentation is dedicated to creating and using **Extensions** for Rabbit Hole. If you are looking for the game code, please refer to the [Scratch Docs](/introduction) instead.
 
-If you are only here for installing and using extensions, you can skip straight to the [Usage](/ext/usage) section.
+If you are only here for installing and using extensions, you can skip straight to the [Usage](/ext/usage) section.  
+If you are only here for creating a skin or modifying game assets, you can skip straight to the [Skinning](/ext/skinning) section.
 
 This section is written and maintained by AshtonMemer, so please contact me at Discord @ `AshtonMemer` if you have any questions.
 
