@@ -28,6 +28,6 @@ Here's a comprehensive list of available extensions:
 
 - <a href="../extensions/Interop.js" download="Interop.js">Interop</a> - Used for interaction with Scratch. This is required for all extensions, and is included with the injector. If you do not include this in your extensions directory, other extensions will not work correctly.
 
-- <a href="../extensions/QuickRestart.js" download="QuickRestart.js">QuickRestart</a> - Quickly restart your run with the press of a button (<code>`</code>), even if you are in the middle of a fight.
+- <a href="../extensions/QuickerRestart.js" download="QuickerRestart.js">QuickRestart</a> - Quickly restart your run with the press of a button (<code>`</code>), even if you are in the middle of a fight.
 
 I will continue to add extensions here as they are created. If you have an extension you would like to add, please contact me.
