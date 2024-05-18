@@ -4,7 +4,7 @@ The Rabbit Hole injector is capable of loading modified assets into the game wit
 
 ## Creating a skin
 
-To create a skin, you will need to download the <a href="../RabbitHoleAssets.zip" download>asset pack</a> and extract it. The asset pack contains the game's assets with their original file names and structure. You can modify these assets in any way you like, as long as you keep the file names and structure the same.
+To create a skin, you will need to download the <a href="../../RabbitHoleAssets.zip" download="RabbitHoleAssets.zip">asset pack</a> and extract it. The asset pack contains the game's assets with their original file names and structure. You can modify these assets in any way you like, as long as you keep the file names and structure the same.
 
 ## Applying a skin
 
