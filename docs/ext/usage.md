@@ -18,7 +18,7 @@ Before you can do any modding, or if you're just here to install extensions, you
 
 :::note
 
-If the injector is not starting properly or you are having issues, try replacing your `injector.exe` with the <a href="../injector-compatibility.exe" download="injector.exe">compatibility version</a>.
+If the injector is not starting properly or you are having issues, try replacing your `injector.exe` with the <a href="../../injector-compatibility.exe" download="injector.exe">compatibility version</a>.
 
 :::
 
